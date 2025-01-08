@@ -24,7 +24,9 @@ Ex. `python -m venv env` </br>
 `python -m pip install ruff`
 
 ### Install Pre-commit to check the code when commit the code
-`python -m pip install pre-commit`
+* Install the module, pre-commit,  `python -m pip install pre-commit` </br>
+* Set the the configuration file of pre-commit Ex. .pre-commit-config.yaml </br>
+* Enable it. `pre-commit install` </br>
 
 
 
