@@ -29,6 +29,10 @@ Ex. `python -m venv env` </br>
 * Enable it. `pre-commit install` </br>
 
 
+### Install commitizen to check the format of commit message
+* Install the module, commitizen,  `python -m pip install commitizen` </br>
+
+
 
 ### Refer to
 * [Makedown Formant](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -36,3 +40,6 @@ Ex. `python -m venv env` </br>
 * [Ruff](https://myapollo.com.tw/blog/python-linter-ruff/)
 * [Ruff](https://blog.kyomind.tw/ruff/)
 * [Pre-commit](https://blog.kyomind.tw/pre-commit/)
+* [Commitzen](https://commitizen-tools.github.io/commitizen/)
+* [Commitzen](https://github.com/commitizen-tools/commitizen)
+* [Pre-commit + Commtzen](https://medium.com/@0xmatriksh/how-to-setup-git-hooks-pre-commit-commit-msg-in-my-project-11aaec139536)
